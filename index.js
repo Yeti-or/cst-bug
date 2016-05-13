@@ -10,7 +10,7 @@ var code = `
 
 var tree = new Paser().parse(code);
 
-var objects = program.selectTokensByType('ObjectExpression');
+var objects = tree.selectTokensByType('ObjectExpression');
 
 debugger;
 
