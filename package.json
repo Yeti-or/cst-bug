@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "cst": "^0.1.6"
+    "cst": "^0.4.6"
   },
   "devDependencies": {},
   "scripts": {
